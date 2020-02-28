@@ -1,0 +1,13 @@
+name: nvj
+
+dependencies:
+    - black
+    - flake8
+    - isort
+    - jupyter
+    - mypy
+    - pip
+    - pytest
+
+    - pip:
+        - neovim-remote
